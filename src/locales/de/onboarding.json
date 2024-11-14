@@ -1,0 +1,69 @@
+{
+  "landing": {
+    "title": "Welcome to the first decentralized payment app.",
+    "description": "In Quai, you own what's yours. Quai is the first payments app where you are the only person in control of your assets.",
+    "setupButton": "Setup",
+    "referralButton": "Set up with Referral",
+    "loginButton": "Already have an account? Click here to login."
+  },
+  "setup": {
+    "wallet": {
+      "title": "Wallet",
+      "description": "Wallet is a place where you can store your money."
+    },
+    "nameAndPFP": {
+      "title": "Personalisieren Sie Ihr Konto",
+      "usernamePlaceholder": "Wählt deine Benutzername aus",
+      "username": "Benutzername",
+      "PFPURL": "Profilbild-URL"
+    },
+    "location": {
+      "title": "Choose your region according to your location.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. ",
+      "loading": "Loading"
+    }
+  },
+  "login": {
+    "landing": {
+      "title": "Konto wiederherstellen",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+      "cards": {
+        "qr": {
+          "title": "Wallet vom Gerät importieren",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a "
+        },
+        "phrase": {
+          "title": "Geben Sie Ihre Seed-Phrase ein",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a "
+        }
+      },
+      "learnMore": "Erfahren Sie mehr über den Wiederherstellungsprozess.",
+      "keychainBottomSheet": {
+        "title": "Found data from previous session on your phone!",
+        "description": "For some reason you were not properly logged out of your account in your device. Thus, information about your account persisted in your phone's secure inner storage.\nIf you agree to it, we can use it to setup your account again.",
+        "continueButton": "Login using phone's secure storage info",
+        "dismissButton": "Dismiss and login with another method"
+      }
+    },
+    "phraseInput": {
+      "title": "Geben Sie Ihre Seed-Phrase ein",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+      "bannerMsg": "Sie können Ihre gesamte Seed-Phrase in eines der Felder einfügen."
+    },
+    "qrCodeScan": {
+      "title": "Scan QR Code",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se"
+    }
+  },
+  "terms": {
+    "title": "Quai ist eine selbstverwaltete Wallet, behandeln Sie sie wie Bargeld",
+    "termsAndConditions": "Allgemeine Geschäftsbedingungen",
+    "termsContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum\n\nLorem ipsum dolor sit\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed\nLorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    "agree": "Ich stimme den Allgemeinen Geschäftsbedingungen zu."
+  },
+  "referralScan": {
+    "title": "Scan Referral’s QR Code",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum ",
+    "redirecting": "Redirecting to the website for setup"
+  }
+}

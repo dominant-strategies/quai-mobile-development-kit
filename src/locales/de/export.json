@@ -1,0 +1,49 @@
+{
+  "landing": {
+    "title": "Konto-\nWiederherstellung",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "cards": {
+      "setup": {
+        "title": "Seed-Phrase einrichten",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a,"
+      },
+      "qr": {
+        "title": "QR-Code zur Konto-Wiederherstellung",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a,"
+      }
+    },
+    "learnMore": "Mehr über Blockchain Technologien erfahren."
+  },
+  "phrase": {
+    "title": "Schreiben Sie Ihre Seed-Phrase auf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "screenShotBanner": "Screenshots sind deaktiviert, um den Schutz Ihrer Wiederherstellungs-\nphrase zu gewährleisten",
+    "revealPhrase": "Seed-Phrase anzeigen",
+    "hidePhrase": "Seed-Phrase ausblenden",
+    "copyToClipboard": "In Zwischenablage kopieren",
+    "phraseCopied": "Seed-Phrase kopiert"
+  },
+  "confirmation": {
+    "title": "Seed-Phrase bestätigen",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "wrongPhraseMessage": {
+      "main": "Falsche Seed-Phrase.",
+      "moreInfo": "Überprüfen Sie es und versuchen Sie es nochmal."
+    }
+  },
+  "checkout": {
+    "title": "Teilen Sie niemals Ihre Wiederherstellungs-\nphrase",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "otherParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "learnMore": "Erfahren Sie mehr über die Kontowiederherstellung",
+    "acceptTerms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    "reviewSeedPhrase": "Seed-Phrase überprüfen",
+    "complete": "Fertig"
+  },
+  "qrCode": {
+    "title": "Wiederherstellungs-QR-Code",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "learnMore": "Erfahren Sie mehr über Quai",
+    "complete": "Fertig"
+  }
+}

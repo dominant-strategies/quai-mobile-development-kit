@@ -1,0 +1,49 @@
+{
+  "landing": {
+    "title": "Account Recovery",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "cards": {
+      "setup": {
+        "title": "Set up Seed Phrase",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a,"
+      },
+      "qr": {
+        "title": "Account Recovery QR Code",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a,"
+      }
+    },
+    "learnMore": "Learn more about Blockchain Technologies."
+  },
+  "phrase": {
+    "title": "Write down your Seed Phrase",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "screenShotBanner": "Screenshots are disabled to ensure protection of your recovery phrase",
+    "revealPhrase": "Reveal your Seed Phrase",
+    "hidePhrase": "Hide your Seed Phrase",
+    "copyToClipboard": "Copy to Clipboard",
+    "phraseCopied": "Seed Phrase copied"
+  },
+  "confirmation": {
+    "title": "Confirm your seed phrase",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Se",
+    "wrongPhraseMessage": {
+      "main": "Incorrect seed phrase.",
+      "moreInfo": "Please review and try again"
+    }
+  },
+  "checkout": {
+    "title": "Never Share your Recovery Codes",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "otherParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "learnMore": "Learn more about Account Recovery",
+    "acceptTerms": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+    "reviewSeedPhrase": "Review Seed Phrase",
+    "complete": "Complete"
+  },
+  "qrCode": {
+    "title": "Recovery QR Code",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissi",
+    "learnMore": "Learn more about Quai",
+    "complete": "Complete"
+  }
+}
