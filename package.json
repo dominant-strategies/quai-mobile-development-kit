@@ -1,5 +1,5 @@
 {
-  "name": "Quai Mobile Development Kit",
+  "name": "QuaiMDK",
   "version": "1.0-beta",
   "private": true,
   "scripts": {
@@ -21,7 +21,6 @@
     "@gorhom/bottom-sheet": "^4.6.1",
     "@react-native-async-storage/async-storage": "^1.23.1",
     "@react-native-clipboard/clipboard": "^1.13.2",
-    "@react-native-community/async-storage": "^1.12.1",
     "@react-native-community/cli": "^13.6.4",
     "@react-native-community/hooks": "^3.0.0",
     "@react-native-community/masked-view": "^0.1.11",
