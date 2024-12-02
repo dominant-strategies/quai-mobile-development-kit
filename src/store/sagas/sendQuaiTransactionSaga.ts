@@ -70,7 +70,8 @@ export default function* sendQuaiTransaction(action:any) {
           .catch((error) => {
             //console.log('send tx error', error.toString());
             const errString = error.toString();
-            const catchString = "ReferenceError: Can't find variable: structuredClone"
+            //const catchString = "ReferenceError: Can't find variable: structuredClone"
+            const catchString = "ReferenceError: Property 'structuredClone' doesn't exist"
             if(errString === catchString){
                 //console.log('error has been caught!');
                 txResultStatus = TxStatus.success;
